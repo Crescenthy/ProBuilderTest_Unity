@@ -4,26 +4,26 @@
 Blockout
 ===
 **总览**
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/01.png)
+![](./screenshot/01.png)
 
 **墙体结构、窗**
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/06.png)
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/05.png)
+![](./screenshot/06.png)
+![](./screenshot/05.png)
 
 **房间、梯子**
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/04.png)
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/03.png)
+![](./screenshot/04.png)
+![](./screenshot/03.png)
 
 **道具**
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/02.png)
+![](./screenshot/02.png)
 
 场景
 ===
 **外景**
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/07.png)
+![](./screenshot/07.png)
 
 **内部**
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/08.png)
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/09.png)
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/10.png)
-![](https://raw.githubusercontent.com/Crescenthy/ProBuilderTest/main/screenshot/11.png)
+![](./screenshot/08.png)
+![](./screenshot/09.png)
+![](./screenshot/10.png)
+![](./screenshot/11.png)
